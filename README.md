@@ -13,4 +13,5 @@ Poniżej znajdziesz kilka moich projektów.
 Jeśli masz pytania, zapraszam do kontaktu!
 
 📧 Email: bartoszewski@ts-pge.pl & contact@bartoszewski.xyz
+
 💬 Discord: bartoszewski 
